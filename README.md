@@ -120,7 +120,7 @@ By mining a specially crafted block, that still passes daemon verification an at
 ## GoEthereum 
 - Language: Go
 
-### - EVM dynamic array maybe occupy large memory 
+### EVM dynamic array maybe occupy large memory 
 
 * https://github.com/ethereum/go-ethereum/issues/18289
 
