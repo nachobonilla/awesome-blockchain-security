@@ -391,8 +391,8 @@ The high risk issues are:
 ### Libsnark, Librustzcash, Zcash-seeder, Zcash-gitian Least Authority Audit
 
 The most prominent issues are:
-    1. Pow leaks in ​windowed_exp
-    2. Exponent leaks via ​power​ function
+1. Pow leaks in ​windowed_exp
+2. Exponent leaks via ​power​ function
  
 * https://leastauthority.com/static/publications/LeastAuthority-Zcash-Implementation-Analysis-and-Overwinter-Specification.pdf
 
