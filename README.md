@@ -346,9 +346,9 @@ Most vulnerabilities described in the report can be grouped into the following c
 
 ### ToB Audit - RSKj Runtime
 Some of the most prominent issues are:
-    1. Resource Leaks in Trie
-    2. Erroneous Gas computaton in CALL breaks sending ether to a contract
-    3. Wrong msg.value parameter in create leads to a broken contract
+1. Resource Leaks in Trie
+2. Erroneous Gas computaton in CALL breaks sending ether to a contract
+3. Wrong msg.value parameter in create leads to a broken contract
 
 * https://github.com/trailofbits/publications/blob/master/reviews/RSKj.pdf
 
@@ -373,17 +373,17 @@ Some of the most prominent issues are:
 ### ZCash Zerocash protocol - Coinspect Audit
 
 The outstanding issues were: 
-    1. ScriptSig malleability allows 51% attack by invalidating honest miners blocks
-    2. Erroneous nValueOut range check allows CPU-exhaustion attacks
-    3. Unlimited number of transaction proofs allows CPU-exhaustion attacks 
-    4. Improper destination path validation in RPC calls allows arbitrary command execution
+1. ScriptSig malleability allows 51% attack by invalidating honest miners blocks
+2. Erroneous nValueOut range check allows CPU-exhaustion attacks
+3. Unlimited number of transaction proofs allows CPU-exhaustion attacks 
+4. Improper destination path validation in RPC calls allows arbitrary command execution
 
 * https://coinspect.com/doc/CoinspectReportZcash2016.pdf
 
 ### Overwinter - Coinspect Audit
 The high risk issues are:
-    1. Transaction Expiry Enables Node Isolation Attack
-    2. Transaction Expiry Enables Transaction Flooding at No Cost
+1. Transaction Expiry Enables Node Isolation Attack
+2. Transaction Expiry Enables Transaction Flooding at No Cost
 
 * https://coinspect.com/doc/CoinspectReportZcash2018.pdf
 
