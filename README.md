@@ -341,6 +341,29 @@ Most vulnerabilities described in the report can be grouped into the following c
 
 * https://coinspect.com/doc/CoinspectReportGrin2019.pdf
 
+## Parity Ethereum
+- Language: Rust
+
+### RPC call causes panic
+
+* https://github.com/paritytech/parity-ethereum/issues/1881
+
+### [Sec Audit] 005 Integer Overflow while decoding untrusted RLP
+
+* https://github.com/paritytech/parity-ethereum/issues/1277
+
+### [Sec Audit] 004 Parity Panic via Integer Overflow in Block Genesis File
+
+* https://github.com/paritytech/parity-ethereum/issues/1276
+
+### Permissions of key files should be tightened
+ 
+ * https://github.com/paritytech/parity-ethereum/issues/849
+ 
+### Deadlock while syncing + JSONRPC
+
+* https://github.com/paritytech/parity-ethereum/issues/1058
+ 
 ## RSK
 - Language: Java
 
