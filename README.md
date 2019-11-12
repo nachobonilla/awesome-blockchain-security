@@ -42,6 +42,24 @@ An attacker build new signatures at a high rate by changing the signature of an 
 
 * https://en.bitcoin.it/wiki/CVE-2012-3789
 
+## c-lightning (Lightning Network)
+- Language: C
+
+### (CVE-2019-12998)
+* https://lists.linuxfoundation.org/pipermail/lightning-dev/2019-September/002174.html
+
+## LND (Lightning Network)
+- Language: Go
+
+### (CVE-2019-12999)
+* https://lists.linuxfoundation.org/pipermail/lightning-dev/2019-September/002174.html
+
+## eclair (Lightning Network)
+- Language: Scala
+
+### (CVE-2019-13000)
+* https://lists.linuxfoundation.org/pipermail/lightning-dev/2019-September/002174.html
+
 ## CosmosSDK 
 - Language: Go
 
