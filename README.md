@@ -75,6 +75,10 @@ Language: C++
 ## EOS
 - Language: C++
 
+### Remote code execution in node
+
+* http://blogs.360.cn/post/eos-node-remote-code-execution-vulnerability.html
+
 ### Buffer Overflow Vulnerability in EOS's WAVM Library and also in latest WAVM Library Parent Repository
 
 * https://hackerone.com/reports/363209
